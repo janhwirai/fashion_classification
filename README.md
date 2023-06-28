@@ -1,6 +1,6 @@
 # fashion_classification
 
-Neural network in Keras for image classification problem.
+Neural network in Keras for image classification problem
 
 Keras fashion MNIST dataset is used.
 
